@@ -39,9 +39,3 @@ Algunas consultas desarrolladas:
 - Porcentaje de productos evaluados
 - Desviación estándar de precios por categoría
 
-## 📤 Exportar Base de Datos
-
-Para exportar la base de datos desde terminal de Linux:
-
-```bash
-mysqldump -u [usuario] -p [nombre_base_datos] > backup.sql
